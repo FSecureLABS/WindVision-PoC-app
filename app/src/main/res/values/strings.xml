@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wind Vision</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Complete Login</string>
+</resources>
